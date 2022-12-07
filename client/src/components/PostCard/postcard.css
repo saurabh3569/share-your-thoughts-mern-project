@@ -1,0 +1,17 @@
+.postBtnLike:hover{
+    border: black;
+    background: grey;
+    color: aliceblue;
+}
+
+.postBtnDisLike:hover{
+    border: black;
+    background: grey;
+    color: aliceblue;
+}
+
+.postcard{
+    background:rgb(63, 60, 58);
+    color: aliceblue;
+}
+
